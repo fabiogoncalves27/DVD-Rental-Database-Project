@@ -37,11 +37,11 @@ In this project, I queried the database to answer the following questions:
     7: Most rented movies by genre and how much were payed for them
     8: Rental Count and Revenue by Genre and Date
     9: How many times each movie was rented by genre (for the movies which are available for rent)
-    11: How many rented movies were returned late, early, and on time?
-    12: What were Total Rental for Family Movies?
-    13: How many movies in each category due by duration quartile?
-    14: What is the number of rentals per month for each store?
-    15: How much did our top customers pay in each month in 2007?
+    10: How many rented movies were returned late, early, and on time?
+    11: What were Total Rental for Family Movies?
+    12: How many movies in each category due by duration quartile?
+    13: What is the number of rentals per month for each store?
+    14: How much did our top customers pay in each month in 2007?
  
 ## Analysis:
 
